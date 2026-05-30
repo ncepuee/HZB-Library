@@ -7,6 +7,7 @@ PDF 学术书籍转换为 Markdown 文档的资料库。
 | 书籍 | 作者 | 状态 |
 |------|------|------|
 | 电力系统动态控制 (Dynamics and Control of Electric Power Systems) | Göran Andersson (ETH Zürich) | ✅ 已转换 |
+| Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems | Kutz, Brunton, Brunton, Proctor (SIAM) | ✅ 已转换 |
 
 ## 使用说明
 
